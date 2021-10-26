@@ -1,0 +1,910 @@
+.mainchinh
+{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+html,body{
+    font-family: 'Roboto', sans-serif;
+}
+nav.navbar.navbar-expand-sm.navbar-light.bg-white {
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    display: center;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    border-top:4px solid #007bff;
+
+}
+.container img {
+    width: 135.47px;
+    height: 70px;
+}
+
+input.form-control.mr-sm-2 {
+    width: 455px;
+    height: 40px;
+    border: 1px solid #007bff;
+    border-collapse: separate;
+    border-radius: 20px;
+    position: relative;
+    display: block;
+}
+form.form-inline.my-2.my-lg-0 {
+    padding-left: 135px;
+}
+button.btn.btn-outline {
+    position: absolute;
+    color: #4b9bf0;
+    left: 780px;
+    font-size: 24px;
+    display: block;
+}
+.bieutuong
+{
+    align-items: center;
+    display: flex;
+    position: relative;
+    padding-left: 150px
+}
+.thenho{
+    position: absolute;
+    left: 17%;
+    top: 115%;
+    padding: 10px;
+    width: 320px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    display: none;
+    z-index: 1;
+    background:white;
+    
+}
+.thenho h1{
+    padding-bottom: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    border-bottom: 2px dotted #e2e2e2;
+    color: rgb(59, 58, 58);
+}
+.btnyeuthich h1
+{
+    border-bottom: none;
+    font-size: 14px;
+    color: rgb(255, 250, 250);
+}
+.thenho .btnyeuthich{
+    border-radius: 0;
+    width: 100%;
+    font-weight: 500;
+    font-size: 13px;
+    padding-bottom: 5px;
+    height: 35px;
+}
+.yeuthich:hover div.thenho{
+    display: block;
+}
+i.fa.fa-user-o {
+    display: flex;
+    padding-right: 125px;
+    padding-top: 10px;
+    font-size: 30px;
+    width: 250px;
+}
+.bieutuong h1 {
+    display: block;
+    font-size: 17px;
+    font-weight: 450;
+    margin-left: 5px;
+    padding-top: 5px;
+}
+i.fa.fa-heart-o
+{
+    display: flex;
+    padding-right: 75px;
+    padding-top: 10px;
+    font-size: 30px;
+
+}
+.user {
+    display: block;
+    width: 150px;
+    height: 40px;
+    color: black;
+}
+
+.yeuthich {
+    display: block;
+    color: black;
+    width: 180px;
+    display: flex;
+}
+.bieutuong>a
+{
+    text-decoration: none;
+}
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.bangmenu {
+    padding-left: 115px;
+    line-height: 1.7;
+}
+li.ok.menu {
+    padding-left: 38px;
+}
+li.ok.menu>a
+{
+    color: #696969;
+    font-size: 14px;
+    padding: 10px 10px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+ul.navbar-nav.mr-auto.mt-2.mt-lg-0 li.ok.menu>a:hover
+{
+    color: #007bff;
+}
+li.nav-item.dropdown.menudacap {
+    padding-left: 30px;
+}
+li.nav-item.dropdown.menudacap>a
+{
+    font-size: 14px;
+    padding: 10px 10px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+li.nav-item.dropdown.menudacap>a:hover
+{
+    color: #007bff;
+}
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.trangchu>a
+{
+    text-decoration: none;
+    color:#007bff;
+    font-size: 14px;
+    padding: 10px 10px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.trangchu {
+    height: 30px;
+}
+.container4 
+{
+    position: relative;
+}
+.muctimkiemduoi {
+    position: absolute;
+    top: 62%;
+}
+.thanhtimkiem {
+    height: 90px;
+    width: 684px;
+    margin-left: 113px;
+    padding-top: 20px;
+    background: rgba(0,0,0,0.3);
+}
+.form-inline.my-2.my-lg-0.timkiemthoi
+{
+    padding-left: 14px;
+}
+.anhc4 img
+{
+    max-width: 100%;
+}
+.form-control.mr-sm-2.thanhnhe
+{
+    width: 545px;
+    height: 60px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #6c757d;
+}
+.btn.btn-outline-success.my-2.my-sm-0.dcchuanhi
+{
+    height: 60px;
+    width: 100px;
+    background: #ff5722;
+    border: #ff5722;
+    color: #fff;
+    font-weight: 500;
+}
+input.form-control.mr-sm-2.thanhnhe 
+{
+    padding-left: 70px;
+    position: relative;
+}
+.tourdulich h1
+{
+    font-size: 40px;
+}
+.tourdulich p
+{
+    font-size: 20px;
+}
+.tourdulich {
+    margin-top: -180px;
+    color: #fff;
+    padding-left: 134px;
+}
+.mapsx
+{
+    position: absolute;
+    left: 145px;
+}
+.mapsx img
+{
+    width: 35px;
+    height: 35px;
+}
+.anh6 
+{
+    background:  #1ba0e2;
+    width: 165px;
+    height: 65px;
+    border-radius:50%;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 35px    ;
+}
+.anh6 img
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 13px;
+    margin-top: 11px;
+}
+.col-sm-4.okchua
+{
+    position: relative;
+    display: flex;
+    border-bottom: 1px solid #0000005c;
+    border-right: 1px solid #0000005c;
+    margin-left: 32px;
+}
+.col-sm-4.okchua.left
+{
+    position: absolute;
+    left: 390px;
+    top: 0px;
+
+}
+.col-sm-4.okchua.right {
+    position: absolute;
+    left: 780px;
+    top: 0px;
+    border-right: none;
+    border-bottom: 1px solid #0000005c;
+}
+.anh6 a
+{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    position: absolute;
+}
+.tieude6 
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h7
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: #333;
+    line-height: 1.4;
+}
+h7:hover
+{
+    color: #007bff;
+}
+.tieude6 p
+{
+    font-size: 13px;
+    color: #888;
+    line-height: 1.3;
+    margin-top: 5px
+}
+.col-sm-12.nha>a
+{
+    text-decoration: none;
+}
+.container8>a
+{
+    text-decoration: none;
+}
+.container8>a:hover
+{
+    color: #007bff!important;
+}
+.tieude8 {
+    padding-left: 450px;
+    display: flex;
+    margin-top: 20px;
+}
+.tieudelon9 {
+    padding-left: 5px;
+    color: #1c1c1c;
+    font-weight: 500;
+    font-size: 30px;
+}
+.tieudelon8 {
+    padding-left: 5px;
+    color: #ff5722;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.tieudenho8 {
+    padding-left: 350px;
+    color: #888;
+    font-size: 14px;
+}
+.tieude8:hover .tieudelon8 
+{
+    color: #007bff;
+}
+.tieude8:hover .tieudelon9
+{
+    color: #007bff;
+}
+img.card-img-top {
+    height: 177px;
+    width: 100%;
+}
+.card-deck:hover
+{
+    margin-top: -7px;
+    transition: 0.5s;
+}
+.card {
+    width: 265px;
+    height: 362px;
+}
+.card h1
+{
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    color: #333;
+    line-height: 1.4;
+    font-weight: 500;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+.card h1:hover
+{
+    color: #007bff;
+}
+.card>a
+{
+    text-decoration: none;
+
+}
+.bieutuongdc
+{
+    font-size: 20px;
+    line-height: 1.7;
+    letter-spacing: 2px;
+    padding-top: 5px;
+    margin-top: -25px;
+    margin-left: -10px;
+}
+.lich img
+{
+    width: 18px;
+    height: 18px;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.lich {
+    display: flex;
+    margin-top: -5px;
+}
+.lich h1
+{
+    font-size: 12px;
+    width: 150px;
+    height: 27px;
+}
+.lich h1:hover
+{
+    color: #333;
+}
+.lich p
+{
+    font-size: 12px;
+    margin-left: -57px;
+    padding-top: 8.5px;
+    color: #ff5722;
+    font-weight: 500;
+}
+.thoigiannhe img
+{
+    width: 18px;
+    height: 18px;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.thoigiannhe {
+    display: flex;
+    margin-top: -14px;
+}
+.thoigiannhe h1
+{
+    font-size: 12px;
+    width: 150px;
+    height: 27px;
+}
+.thoigiannhe h1:hover
+{
+    color: #333;
+}
+.thoigiannhe p
+{
+    font-size: 12px;
+    padding-top: 8.5px;
+    color: #ff5722;
+    font-weight: 500;
+    width: 358px;
+}
+.giatien 
+{
+    display: flex;
+    width: 250px;
+    padding-left: 10px
+}
+.giatien h2
+{
+    font-size: 20px;
+    color: #ff5722;
+    font-size: 20px;
+    margin-top: -4px;
+    margin-left: -25px
+}
+.card-body.giatien h2:hover
+{
+    color:none;
+}
+.giatien>a
+{
+    text-decoration: none;
+    background: #ff5722;
+    height: 30px;
+    width: 80px;
+    margin-top: -8px;
+    margin-left: 35px;
+    color: white;
+    font-size: 14px;
+    padding-left: 7px;
+    padding-top: 5px;
+}
+.giadulich
+{
+    display: flex;
+    margin-top: 30px;
+}
+.giatiengiam {
+    font-size: 12px;
+    padding-left: 130px;
+    padding-bottom: 3px;
+    margin-top: -24px;
+    text-decoration: line-through;
+    color: #333;
+}
+.fa.fa-bus.ba
+{
+    margin-top: 28px;
+}
+.container10 
+{
+    display: flex;
+    margin-top: 15px;
+}
+.col-sm-6.anh2 img
+{
+    width: 550px;
+    height: 208px;
+}
+.card-body.cogachgia {
+    padding-top: 0px;
+}
+.container20 {
+    padding-left: 500px;
+    margin-top: 30px;
+}
+.xemtatcatour {
+    border: 1px solid #ff5722;
+    width: 150px;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #ff5722;
+    font-weight: 500;
+    border-radius: 4px;
+}
+.xemtatcatour:hover
+{
+    background: #ff5722;
+    color: white;
+}
+.container20>a
+{
+    text-decoration: none;
+}
+.tieudelon9.oknheban.okai:hover
+{
+    color: #1c1c1c;
+}
+.tieudelon9.oknheban 
+{
+    color: #1c1c1c;
+    margin-left: -18px;
+    padding-top: 10px;
+}
+.tieudenho8.okkk {
+    margin-left: 84px;
+}
+.tinnho34 
+{
+    display: flex;
+    position: absolute;
+    bottom: 5px;
+    color: #fff;
+    font-size: 12px;
+    left: 66px;
+    font-weight: 500;
+}
+.tieude34 {
+    font-size: 15px;
+    color: #fff;
+    position: absolute;
+    font-weight: 500;
+    bottom: 25px;
+    left: 82px;
+}
+
+.col-sm-3.okhd
+{
+    height: 322px;
+    width: 266px;
+    border: none;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+}
+.col-sm-3.okhd img
+{
+    width: 266px;
+    height: 322px;
+    transition: all 0.3s ease-in-out;
+    max-width: 100%;
+}
+.col-sm-3.okhd :hover img
+{
+    display: block;
+    transform: scale(1.1);
+}
+.col-sm-3.okhd:hover .tieude34
+{
+    color: #007bff;
+}
+.tinnho342 
+{
+    padding-left: 3px;
+    color: #ff5722;
+}
+.tinnho343 
+{
+    padding-left: 3px;
+}
+.container34 {
+    display: flex;
+    margin-top: 20px;
+}
+.container40
+{
+    display: flex;
+}
+.thegioidulich {
+    width: 208px;
+    height: 160px;
+    padding: 0px;
+    margin-top: 20px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    margin-left: 15px;
+}
+.thegioidulich:hover img
+{
+    transform: scale(1.1);
+    display: block;   
+
+}
+.thegioidulich img
+{
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+}
+.thegioidulich::after{
+    content:'';
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.01), rgba(0,0,0,0.9));
+}
+.thegioidulich:hover .tieude40
+{
+    color: #007bff;
+}
+.tieude40 {
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    z-index: 1;
+}
+.tinnho40 {
+    position: absolute;
+    display: flex;
+    bottom: 5px;
+    color: #ff5722;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    left: 10px;
+    z-index: 1;
+}
+.tinnho402 
+{
+    padding-left: 5px;
+}
+.tieudenho8.nhemn {
+    padding-left: 220px;
+}
+.tieudelon9.mnnhahah {
+    margin-left: -27px;
+}
+.tintuclonmanh 
+{
+    width: 100%;
+    height: 374px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.anhtonhat img
+{
+    width: 360px;
+    height: 240px;
+    margin-bottom: 10px;
+}
+.anhtonhat >a
+{
+    text-decoration: none;
+}
+.anhtonhat h21:hover 
+{
+    color: #1ba0e2;
+}
+.anhtonhat h21
+{
+    color: #1c1c1c;
+    font-weight: 500;
+}
+.tinnhonhat
+{
+    color: #777;
+    line-height: 1.5;
+    word-break: break-word;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.container50 {
+    display: flex;
+    margin-left: -14px;
+}
+.container60
+{
+    background: #333;
+    margin-top: 20px;
+}
+.row.okokkk {
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 0.5px dashed rgba(255,255,255,0.2);
+}
+.row.okokkk >a
+{
+    color: #333;
+    text-decoration: none;
+}
+.bieutuongcacthu {
+    width: 285px;
+    height: 41px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.thongtinnhantin {
+    width: 380px;
+    height: 48px;
+    padding-left: 15px;
+}
+.dknt
+{
+    font-weight: 500;
+    color: #888;
+    font-size: 18px;
+}
+.ttnhonhan
+{
+    color: #888;
+    font-size: 14px;
+}
+i.fa.fa-facebook-official 
+{
+    background: #e0dfdf;
+    width: 35px;
+    height: 41px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+i.fa.fa-twitter-square
+{
+    background: #e0dfdf;
+    width: 35px;
+    height: 41px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+i.fa.fa-youtube-play
+{
+    background: #e0dfdf;
+    width: 35px;
+    height: 41px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-top: 8px; 
+}
+i.fa.fa-instagram
+{
+    background: #e0dfdf;
+    width: 35px;
+    height: 41px;
+    border: 1px solid white;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-top: 8px; 
+}
+.bentrai 
+{
+    background: #292929;
+    width: 285px;
+    height: 316px;
+    margin-left: 60px;
+    padding-top: 15px;
+}
+.bentrai.ct a
+{
+    padding-left: 70px;
+}
+.anhlonkko img
+{
+    width: 145px;
+    height: 70px;
+}
+.thongtinccnhe 
+{
+    color: #888;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 15px;
+    line-height: 1.7;
+}
+.diachievo
+{
+    font-size: 14px;
+}
+.emailevo
+{
+    width: 260px;
+    height: 35px;
+}
+.emailevo a {
+    color: #888;
+    font-size: 14px;
+    margin-left: -65px;
+    text-decoration: none;
+}
+.dienthoai a
+{
+    color: #888;
+    font-size: 14px;
+    margin-left: -65px;
+    text-decoration: none;
+}
+span
+{
+    font-size: 14px;
+    color: #888;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.giayphepkd 
+{
+    font-size: 12px;
+}
+.paymenttf
+{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 5px
+}
+.paymenttf img
+{
+    text-align: left;
+    margin-right: 5px;
+}
+.container70
+{
+    display: flex;
+    background: #333;
+}
+.col-sm-8.nhiban {
+    margin-left: -60px;
+    padding-top: 10px;
+}
+.benphai.ct
+{
+    height: 100%;
+}
+.row.cc{
+    height: 280px;
+    border-bottom: 0.1px solid rgba(255,255,255,0.2);
+}
+.col-sm-3.ccnhe>a
+{
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+} 
+.col-sm-3.ccnhe h34:hover 
+{
+    color: #fff;
+}
+.col-sm-3.ccnhe {
+    padding-right: 0px;
+    padding-left: 0px;
+    line-height: 1.7;
+}
+.tieudeindam
+{
+    color: #fff;
+}
+.banquyen
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: rgba(255,255,255,0.8);
+    font-size: 12px;
+}
